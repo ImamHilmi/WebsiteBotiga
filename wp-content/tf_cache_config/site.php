@@ -1,0 +1,13 @@
+<?php
+if(!defined('TF_CACHE_FW')){
+    define('TF_CACHE_FW','C:\xampp\htdocs\Botiga/wp-content/themes/themify-shoppe/themify-shoppe/themify\cache/');
+}
+if(!defined('TF_CACHE_TIME')){
+    define('TF_CACHE_TIME','10080');
+}
+if(!defined('TF_CACHE_RULES')){
+    define('TF_CACHE_RULES','');
+}
+if(!defined('TF_CACHE_IGNORE')){
+    define('TF_CACHE_IGNORE','');
+}

@@ -1,0 +1,93 @@
+/* Themify Customize Styling */
+#header {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	background: none;
+	background-color: #222222; 
+}
+#headerwrap.fixed-header #header, #headerwrap.fixed-header #site-description {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+#headerwrap.fixed-header #header {	
+	color: #f6f6f6; 
+}
+body:not(.mobile_menu_active) #headerwrap.fixed-header #header a, .mobile_menu_active #headerwrap.fixed-header #site-logo a, .mobile_menu_active #headerwrap.fixed-header #menu-icon {	
+	color: #f6f6f6; 
+}
+body:not(.mobile_menu_active) #headerwrap.fixed-header #header a:hover, .mobile_menu_active #headerwrap.fixed-header #site-logo a:hover, .mobile_menu_active #headerwrap.fixed-header #menu-icon:hover {	
+	color: #cccccc; 
+}
+#main-nav a {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+#main-nav ul, #main-nav .has-mega-sub-menu .mega-sub-menu, #main-nav .has-mega-column > .sub-menu {	background: none;
+	background-color: #f6f6f6; 
+}
+#main-nav ul a, body:not(.mobile_menu_active) #main-nav .current_page_item ul a, body:not(.mobile_menu_active) #main-nav ul .current_page_item > a, body:not(.mobile_menu_active) #main-nav .current-menu-item ul a, body:not(.mobile_menu_active) #main-nav ul .current-menu-item > a, body:not(.mobile_menu_active) #main-nav .has-mega-column>.sub-menu a, body:not(.mobile_menu_active) #main-nav .has-mega-column > .sub-menu a {	
+	color: #222222; 
+}
+#main-nav ul a:hover, body:not(.mobile_menu_active) #main-nav .current_page_item ul a:hover, body:not(.mobile_menu_active) #main-nav ul .current_page_item a:hover, body:not(.mobile_menu_active) #main-nav .current-menu-item ul a:hover, body:not(.mobile_menu_active) #main-nav ul .current-menu-item a:hover {	
+	color: #4d4d4d; 
+}
+body:not(.mobile_menu_active) #main-nav li .current_page_item > a, body:not(.mobile_menu_active) #main-nav li .current-menu-item > a, body:not(.mobile_menu_active) #main-nav ul .current-menu-item > a, body:not(.mobile_menu_active) #main-nav .has-mega-column>.sub-menu .current-menu-item > a, body:not(.mobile_menu_active) #main-nav .has-mega-column > .sub-menu .current-menu-item > a,
+			body:not(.mobile_menu_active) #main-nav .has-mega-column>.sub-menu .current-cat > a, body:not(.mobile_menu_active) #main-nav .has-mega-column > .sub-menu .current-cat > a {	
+	color: #222222; 
+}
+.woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product h3, .wc-products .product h3 {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.woocommerce ul.products li.product .price {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.woocommerce ul.products li.product .button,.woocommerce #respond input#submit,.woocommerce #respond input#submit.alt,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce button.button.alt.disabled,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled] {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.woocommerce ul.products li.product .onsale {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.single-product div.product .product_title {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.single-product div.product p.price {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.single-product #content input.button, .single-product #respond input#submit, .single-product #content input.button.alt, .single-product #respond input#submit.alt, .single-product a.button, .single-product button.button, .single-product input.button, .single-product a.button.alt, .single-product button.button.alt, .single-product input.button.alt, .single-product button.button.alt.disabled, .single-product button.button:disabled, .single-product button.button:disabled[disabled] {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+.single-product span.onsale {	
+	font-family: "Merriweather";	font-weight:300;
+ 
+}
+#footerwrap {	background: none;
+	background-color: #222222; 
+}
+#footer {	
+	font-family: "Merriweather";	font-weight:300;
+
+	color: #f6f6f6; 
+}
+#footer a {	
+	color: #f6f6f6; 
+}
+#footer a:hover {	
+	color: #cccccc; 
+}
+#footer-nav a {	
+	color: #f6f6f6; 
+}
+#footer-nav a:hover, #footer-nav li:hover > a {	
+	color: #cccccc; 
+}
+.footer-widgets .widgettitle {	
+	color: #f6f6f6; 
+}
